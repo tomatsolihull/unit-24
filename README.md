@@ -1,1 +1,7 @@
-# unit-24
+# Unit 24 Stuff (Controlling Systems with IT)
+
+# Tello Drones
+- **[tello-cli.py](tello/tello-cli.py)**: A Python CLI for sending commands to the drones without being subject to the annoying timeout *(Feb 2022)*
+
+# Sphero Edu Bolts
+_Coming Soon_
